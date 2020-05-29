@@ -130,3 +130,9 @@
   position: absolute;
   top: 50%;
 }
+
+.feedback {
+  text-align: right;
+  color: white;
+  font-size: 30px;
+}
